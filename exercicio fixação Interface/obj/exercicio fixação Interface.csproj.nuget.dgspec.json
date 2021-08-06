@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 14\\exercicio fixação Interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj": {}
+    "C:\\Users\\davi.silva\\Desktop\\fixa-o-interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 14\\exercicio fixação Interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj": {
+    "C:\\Users\\davi.silva\\Desktop\\fixa-o-interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 14\\exercicio fixação Interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj",
+        "projectUniqueName": "C:\\Users\\davi.silva\\Desktop\\fixa-o-interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj",
         "projectName": "exercicio fixação Interface",
-        "projectPath": "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 14\\exercicio fixação Interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj",
-        "packagesPath": "C:\\Users\\davyd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 14\\exercicio fixação Interface\\exercicio fixação Interface\\obj\\",
+        "projectPath": "C:\\Users\\davi.silva\\Desktop\\fixa-o-interface\\exercicio fixação Interface\\exercicio fixação Interface.csproj",
+        "packagesPath": "C:\\Users\\davi.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davi.silva\\Desktop\\fixa-o-interface\\exercicio fixação Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\davyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davi.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

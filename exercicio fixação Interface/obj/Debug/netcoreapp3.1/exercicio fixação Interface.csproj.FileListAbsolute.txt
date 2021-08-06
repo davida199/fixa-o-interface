@@ -1,0 +1,13 @@
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\bin\Debug\netcoreapp3.1\exercicio fixação Interface.exe
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\bin\Debug\netcoreapp3.1\exercicio fixação Interface.deps.json
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\bin\Debug\netcoreapp3.1\exercicio fixação Interface.runtimeconfig.json
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\bin\Debug\netcoreapp3.1\exercicio fixação Interface.runtimeconfig.dev.json
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\bin\Debug\netcoreapp3.1\exercicio fixação Interface.dll
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\bin\Debug\netcoreapp3.1\exercicio fixação Interface.pdb
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\obj\Debug\netcoreapp3.1\exercicio fixação Interface.csproj.AssemblyReference.cache
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\obj\Debug\netcoreapp3.1\exercicio fixação Interface.AssemblyInfoInputs.cache
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\obj\Debug\netcoreapp3.1\exercicio fixação Interface.AssemblyInfo.cs
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\obj\Debug\netcoreapp3.1\exercicio fixação Interface.csproj.CoreCompileInputs.cache
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\obj\Debug\netcoreapp3.1\exercicio fixação Interface.dll
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\obj\Debug\netcoreapp3.1\exercicio fixação Interface.pdb
+C:\Users\davi.silva\Desktop\fixa-o-interface\exercicio fixação Interface\obj\Debug\netcoreapp3.1\exercicio fixação Interface.genruntimeconfig.cache
