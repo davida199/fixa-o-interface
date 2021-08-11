@@ -6,14 +6,15 @@ namespace exercicio_fixação_Interface.Services
 {
     class PicPayServicePayment : IServicePayment
     {
+        private double taxJuroSimples = 0.01;
+        private double taxPagamento = 0.02;
         public double paymentFee(double amount)
         {
-            double acum = amount + (amount * (1 / 100));
-            return acum +=  (acum * (2 / 100));
+            return amount * taxPagamento;
         }
         public double interest(double amount, int months)
         {
-            return paymentFee(amount) * months;
+            return amount * taxJuroSimples * months;
         }
     }
 }

@@ -6,7 +6,7 @@ namespace exercicio_fixação_Interface.Services
 {
     interface IServicePayment
     {
-        double tax(int per);
-        
+        public double paymentFee(double amount);
+        public double interest(double amount, int months);
     }
 }
